@@ -5737,13 +5737,13 @@ width: 17px;
         </font>
        </property>
        <property name="styleSheet">
-        <string notr="true">QPushButton{border-radius : 13px;
+        <string notr="true">QPushButton{border-radius : 15px;
 border : 2px solid rgb(121,191,53);
 color:rgb(121,191,53);
 background-color:white;
 image:url(:/img/resources/green_arrow.png)}
 QPushButton:pressed{
-border-radius : 13px;
+border-radius : 15px;
 border : 2px solid rgb(130,255,75);
 border:transparent;
 background-color:qlineargradient(spread:pad, x1:0.15, y1:0.15, x2:1, y2:1, stop:0 rgba(177, 220, 61, 255), stop:1 rgba(41, 191, 61, 247));
